@@ -1,6 +1,6 @@
 # Upload Images API
 
-Simple API for post upload images online.
+Simple API for upload images online.
 Built with Node.js.
 
 ## Features
